@@ -1,4 +1,4 @@
-import { db } from ".dbConnect.js"
+import { db } from "./dbConnect.js"
 
 const coll = db.collection("tasks")
 
